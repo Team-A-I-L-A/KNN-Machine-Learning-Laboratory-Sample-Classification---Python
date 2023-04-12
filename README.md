@@ -1,10 +1,14 @@
 # KNN Machine Learning Laboratory Sample Classification - Python
 This repository stores the codes responsible for extracting features from images capturing two types of laboratory samples and classifying them using the K-Nearest Neighbors algorithm. This work was oriented to be used by a sample classifier robot by capturing images in real time.
 
-## Author 👤
+## Lead Developers 👤
 **Luis Ángel Sánchez Aguilar**
 
 * [LinkedIn](https://www.linkedin.com/in/sanchezluismachinelearning/)
+
+**Roger Aldo Acosta Baltodano**
+
+* [LinkedIn](https://www.linkedin.com/in/roger-aldo-acosta-baltodano/)
 
 ## Main Files description 📘
 
@@ -19,4 +23,4 @@ This repository stores the codes responsible for extracting features from images
 
 
 ## Hiring 🤝🏿
-If you wish to hire me, please contact me at the following e-mail address: luislasabills@gmail.com
+If you wish to hire me, please contact me at the following e-mail address: t3.aila.dev@gmail.com
